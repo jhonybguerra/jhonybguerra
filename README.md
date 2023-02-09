@@ -26,7 +26,7 @@
 
 
 # 📊 GitHub Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?jhonybguerra=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)<br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonybguerra)](https://github.com/anuraghazra/github-readme-stats)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jhonybguerra&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonybguerra&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
