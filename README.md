@@ -2,9 +2,9 @@
 
  Desenvolvedor Android apaixonado por tecnologia e música! Busco aprender sobre a criação de apps no geral. Gosto de conhecer e me aprofundar em bibliotecas que auxiliem a desenvolver ferramentas que otimizem a vida do músico.
 
-**Atualmente:** Estudo desenvolvimento Android com Kotlin desde 2018, e atualmente busco uma vaga de desenvolvedor Jr. para colocar em prática tudo o que tenho visto.
+**Atualmente:** Estudo desenvolvimento Android com Kotlin desde 2018 e atualmente, busco uma vaga de desenvolvedor Jr. para colocar em prática tudo o que tenho visto.
 
-**Estudando:** Além de ter feitos vários dos codelabs da Google, sou aluno dos cursos "Android Moderno e Profissional", "Android Definitivo" e "Android Express", aprendendo conceitos sobre Android SDK, activities e fragments, layouts, componentes, material design, jetpack, retrofit, room, paging e dagger-hilt, assim como os conceitos de SOLID, design patterns, arquitetura e boas práticas. Busco alguma oportunidade para uma vaga de desenvolvedor Jr. de Android com Kotlin, para colocar tudo isso em prática.  
+**Estudando:** Além de ter feitos vários dos codelabs da Google, sou aluno dos cursos "Android Moderno e Profissional", "Android Definitivo" e "Android Express", aprendendo conceitos sobre Android SDK, activities e fragments, layouts, componentes, material design, jetpack, retrofit, room, paging e dagger-hilt, assim como os conceitos de SOLID, design patterns, arquitetura e boas práticas. 
 
 
 # 📧 Contato:
