@@ -1,6 +1,6 @@
 # 💫 Sobre mim:
 
- Desenvolvedor Android apaixonado por tecnologia e música! Busco aprender sobre a criação de apps no geral. Gosto de conhecer e me aprofundar em bibliotecas que auxiliem a desenvolver ferramentas que otimizem a vida do músico.
+ Desenvolvedor Android apaixonado por tecnologia e música! Busco aprender sobre a criação de apps no geral. Gosto de conhecer e me aprofundar em bibliotecas que auxiliem no desenvolvimento de apps que otimizem a vida do músico.
 
 **Atualmente:** Estudo desenvolvimento Android com Kotlin desde 2018 e atualmente, busco uma vaga de desenvolvedor Jr. para colocar em prática tudo o que tenho visto.
 
