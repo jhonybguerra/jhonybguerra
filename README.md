@@ -14,7 +14,7 @@
 <a href="https://wa.me/+5511986726064"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/><a/>
  
  # 📱 Apps publicados:
-<a href="https://play.google.com/store/apps/developer?id=Jhony+Bossolane+Guerra"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/><a/>
+<a href="https://play.google.com/store/apps/developer?id=JBGuerra"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/><a/>
 
 ## 🌐 Redes Sociais:
 <a href="https://www.instagram.com/johnny_bguerra/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><a/>
