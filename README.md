@@ -4,7 +4,7 @@
 
 **Atualmente:** Estudo desenvolvimento Android com Kotlin desde 2018 e atualmente, busco uma vaga de desenvolvedor Jr. para colocar em prática tudo o que tenho visto.
 
-**Estudando:** Além de ter feitos vários dos codelabs da Google, sou aluno dos cursos "Android Moderno e Profissional", "Android Definitivo" e "Android Express", aprendendo conceitos sobre Android SDK, activities e fragments, layouts, componentes, material design, jetpack, retrofit, room, paging e dagger-hilt, assim como os conceitos de SOLID, design patterns, arquitetura e boas práticas. 
+**Estudando:** Atualmente estudo conceitos sobre Android SDK, activities e fragments, layouts, componentes, material design, jetpack, retrofit, room, paging e dagger-hilt, assim como os conceitos de SOLID, design patterns, arquitetura e boas práticas. 
 
 
 # 📧 Contato:
