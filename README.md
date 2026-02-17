@@ -1,11 +1,15 @@
 # 💫 Sobre mim:
 
- Desenvolvedor Android apaixonado por tecnologia e música! Busco aprender sobre a criação de apps no geral. Gosto de conhecer e me aprofundar em bibliotecas que auxiliem no desenvolvimento de apps que otimizem a vida do músico.
+Jhony Bossolane Guerra
+Desenvolvedor Mobile | Android | Jetpack Compose | KMP
 
-**Atualmente:** Estudo desenvolvimento Android com Kotlin desde 2018 e atualmente, busco uma vaga de desenvolvedor Jr. para colocar em prática tudo o que tenho visto.
+Desde 2020, venho me especializando no desenvolvimento de aplicativos mobile Android nativo, utilizando Kotlin e Java, com foco na arquitetura moderna e na criação de interfaces por meio do Jetpack Compose. Possuo experiência no ciclo completo de desenvolvimento, desde a implementação até a publicação de aplicações na Google Play Store, onde publico apps desde 2021.
 
-**Estudando:** Atualmente estudo conceitos sobre Android SDK, activities e fragments, layouts, componentes, material design, jetpack, retrofit, room, paging e dagger-hilt, assim como os conceitos de SOLID, design patterns, arquitetura e boas práticas. 
+Atualmente atuo como Desenvolvedor Android Pleno na Yuzer (desde 2024), trabalhando no desenvolvimento e manutenção de aplicações para POS e totens de autoatendimento voltadas à venda de produtos alimentícios em bares, restaurantes e eventos de grande porte. Sou responsável pela implementação e sustentação de integrações com adquirentes como PagSeguro, Clover, Banrisul, Rede, Stone, Getnet, Cielo e Fiserv (Software Express), garantindo estabilidade, desempenho e confiabilidade das transações.
 
+Minha atuação envolve a evolução do fluxo de vendas, com suporte à impressão de tickets e filipetas, validação de QR Code e customizações conforme as regras de negócio de cada cliente, além da integração entre POS, frontend (Portal) e backend em ambientes com alto volume de usuários simultâneos.
+
+Também possuo experiência na integração de bibliotecas Mifare para soluções de Cashless e NFC, bem como na implementação de métodos de pagamento como crédito, débito e Pix, incluindo operações de estorno, cancelamento e parcelamento de compras.
 
 # 📧 Contato:
 
