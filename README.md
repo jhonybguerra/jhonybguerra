@@ -1,6 +1,7 @@
 # 💫 Sobre mim:
 
 Jhony Bossolane Guerra
+
 Desenvolvedor Mobile | Android | Jetpack Compose | KMP
 
 Desde 2020, venho me especializando no desenvolvimento de aplicativos mobile Android nativo, utilizando Kotlin e Java, com foco na arquitetura moderna e na criação de interfaces por meio do Jetpack Compose. Possuo experiência no ciclo completo de desenvolvimento, desde a implementação até a publicação de aplicações na Google Play Store, onde publico apps desde 2021.
